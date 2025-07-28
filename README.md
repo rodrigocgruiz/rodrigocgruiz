@@ -37,7 +37,7 @@ Technology:
 
 ---------------------------------------------------------------------------------------------------------
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocgruiz&layout=compact&langs_count=7&theme=dracula&size_weight=1&count_weight=5)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocgruiz&layout=compact&langs_count=7&theme=dracula&size_weight=1&count_weight=1)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocgruiz&show_icons=true&theme=dracula)
 
