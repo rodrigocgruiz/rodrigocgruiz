@@ -25,6 +25,10 @@ Technology:
 |Introdução|[Certificado](https://hermes.dio.me/certificates/HBVZHJJN.pdf)|
 |Sintaxe Básica|[Certificado](https://hermes.dio.me/certificates/HRC1JGN0.pdf)|
 
+---------------------------------------------------------------------------------------------------------
+
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocgruiz&show_icons=true&theme=radical)
+
 <!--
 **rodrigocgruiz/rodrigocgruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
