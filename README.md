@@ -1,13 +1,13 @@
 ## Welcome to my GitHub profile  👋
 
-🔭 Atualmente estou trabalhando com gestão de acessos em cibersegurança. 
-💻 Possuo mais de 15 anos na área de tecnologia com manutenção de computadores e suporte ao usuário.
-🏫 Sou formado em Análise e de Desenvolvimento de Sistemas com Pós Graduação de Cibersegurança.
+🔭 Atualmente estou trabalhando com gestão de acessos em cibersegurança.<br> 
+💻 Possuo mais de 15 anos na área de tecnologia com manutenção de computadores e suporte ao usuário.<br>
+🏫 Sou formado em Análise e de Desenvolvimento de Sistemas com Pós Graduação de Cibersegurança.<br>
 🔄 E estou em processo de migração para minha área de formação, especificamente desenvolvimento back-end Java. 
 
-🔭 I'm currently working with access management in cybersecurity.
-💻 I have over 15 years of experience in technology, providing computer maintenance and user support.
-🏫 I have a degree in Systems Analysis and Development with a postgraduate degree in Cybersecurity.
+🔭 I'm currently working with access management in cybersecurity. <br>
+💻 I have over 15 years of experience in technology, providing computer maintenance and user support.<br>
+🏫 I have a degree in Systems Analysis and Development with a postgraduate degree in Cybersecurity.<br>
 🔄 I'm in the process of transitioning to my field of expertise, specifically Java back-end development.
 
 ---------------------------------------------------------------------------------------------------------
