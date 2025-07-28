@@ -2,12 +2,12 @@
 
 <!-- Cabeçalhos -->
 
-# Título 1 = <h1> Título 1 </h1>
-## Titulo 2  <h2> Título 2 </h2> 
-### Título 3 <h3> Título 3 </h3>
-#### Título 4 <h4> Título 4 </h4>
-##### Título 5 <h5> Título 5 </h5>
-###### Título 6 <h6> Título 6 </h6>
+# Título 1 = <h1> Título 1 HTML </h1>
+## Titulo 2  <h2> Título 2 HTML </h2> 
+### Título 3 <h3> Título 3 HTML </h3>
+#### Título 4 <h4> Título 4 HTML </h4>
+##### Título 5 <h5> Título 5 HTML </h5>
+###### Título 6 <h6> Título 6 HTML </h6>
 
 *italico* ou _italico_
 
