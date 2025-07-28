@@ -1,51 +1,20 @@
-## Hi there 👋
+## Welcome to my GitHub profile  👋
 
-<!-- Cabeçalhos -->
+🔭Atualmente estou trabalhando com gestão de acessos em cibersegurança. 
+Possuo mais de 15 anos na área de tecnologia com manutenção de computadores e suporte ao usuário.
+Sou formado em Análise e de Desenvolvimento de Sistemas com Pós Graduação de Cibersegurança.
+E estou em processo de migração para minha área de formação, especificamente desenvolvimento back-end Java. 
 
-# Título 1 (MARKDOWN) <h1> Título 1 (HTML) </h1>
-## Titulo 2 (MARKDOWN) <h2> Título 2 (HTML) </h2> 
-### Título 3 (MARKDOWN) <h3> Título 3 (HTML) </h3>
-#### Título 4 (MARKDOWN) <h4> Título 4 (HTML) </h4>
-##### Título 5 (MARKDOWN) <h5> Título 5 (HTML) </h5>
-###### Título 6 (MARKDOWN) <h6> Título 6 (HTML) </h6>
+🔭 I'm currently working with access management in cybersecurity.
+I have over 15 years of experience in technology, providing computer maintenance and user support.
+I have a degree in Systems Analysis and Development with a postgraduate degree in Cybersecurity.
+I'm in the process of transitioning to my field of expertise, specifically Java back-end development.
 
-*italico* ou _italico_
 
-**negrito** ou __negrito__
+Technology:
 
-- Lista 1
-- Lista 2
-    - Sublista
-
-1. Lista 1.2
-2. Lista 1.3
-    1. Lista 1.1.1
-
-[Link do Background](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-1018-622f-8cf8-80621de5705e/raw?se=2025-07-28T02%3A29%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=5d7a8e91-0459-5956-a0e0-64abea007064&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-27T19%3A16%3A50Z&ske=2025-07-28T19%3A16%3A50Z&sks=b&skv=2024-08-04&sig=GIS/fY5kKQgF00bMjVJqffCgZQ2X5Nx/06TZmSxbZhU%3D)
-
-![Background inserido](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-1018-622f-8cf8-80621de5705e/raw?se=2025-07-28T02%3A29%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=5d7a8e91-0459-5956-a0e0-64abea007064&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-27T19%3A16%3A50Z&ske=2025-07-28T19%3A16%3A50Z&sks=b&skv=2024-08-04&sig=GIS/fY5kKQgF00bMjVJqffCgZQ2X5Nx/06TZmSxbZhU%3D)
-
-`public class Example {
-    public static void main(String[] args) {
-        int number = 10;
-        if (number > 0) {
-            System.out.println("Crase permite destacar uma linha de código");
-        } else {
-            // código para o caso de number <= 0
-        }
-    }
-}`
-
-> Texto de citações
----------------------
-
-| Cabeçalho 1 | Cabelaho 2 |
-|-------------|------------|
-| Texto 1     | Texto 2    |
-| Texto 3     | Texto 4    |
-
-[x] Tarefa 1 <br>
-[ ] Tarefa 2
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width: 100px/>
+          
 
 <!--
 **rodrigocgruiz/rodrigocgruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
