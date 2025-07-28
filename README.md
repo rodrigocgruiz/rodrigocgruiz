@@ -39,7 +39,7 @@ Technology:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocgruiz&layout=compact&langs_count=7&theme=dracula)
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocgruiz&show_icons=true&theme=radical)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocgruiz&show_icons=true&theme=dark)
 
 <!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocgruiz&layout=compact&langs_count=7&theme=dracula" width="200px"/>-->
 
