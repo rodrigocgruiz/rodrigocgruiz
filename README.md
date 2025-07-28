@@ -13,8 +13,9 @@ I'm in the process of transitioning to my field of expertise, specifically Java 
 
 Technology:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" witch="70px"/>          
 
 <!--
 **rodrigocgruiz/rodrigocgruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
