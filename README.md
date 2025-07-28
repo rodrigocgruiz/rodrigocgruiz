@@ -1,6 +1,5 @@
 ## Welcome to my GitHub profile  👋
 
-------------------------------------------------------------------------------------------------------------
 
 #### 🔭 Atualmente estou trabalhando com gestão de acessos em cibersegurança na NTT DATA.<br> 
 #### 💻 Sou um profissional com mais de 15 anos na área de tecnologia, em sua totalidade atuando com montagem e manutenção de computadores e suporte ao usuário em grandes empresas e Fórum.<br>
