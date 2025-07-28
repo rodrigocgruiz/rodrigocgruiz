@@ -13,7 +13,7 @@ I'm in the process of transitioning to my field of expertise, specifically Java 
 
 Technology:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px"/>
           
 
 <!--
