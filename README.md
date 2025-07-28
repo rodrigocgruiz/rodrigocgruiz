@@ -7,7 +7,7 @@
 ### Título 3 <h3> Título 3 </h3>
 #### Título 4 <h4> Título 4 </h4>
 ##### Título 5 <h5> Título 5 </h5>
-###### Título 6 <h6> Título 6 </6>
+###### Título 6 <h6> Título 6 </h6>
 
 *italico* ou _italico_
 
