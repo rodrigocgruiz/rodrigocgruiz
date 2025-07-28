@@ -1,14 +1,16 @@
 ## Welcome to my GitHub profile  👋
 
-🔭 Atualmente estou trabalhando com gestão de acessos em cibersegurança.<br> 
-💻 Possuo mais de 15 anos na área de tecnologia com manutenção de computadores e suporte ao usuário.<br>
-🏫 Sou formado em Análise e de Desenvolvimento de Sistemas com Pós Graduação de Cibersegurança.<br>
-🔄 E estou em processo de migração para minha área de formação, especificamente desenvolvimento back-end Java. 
+🔭 Atualmente estou trabalhando com gestão de acessos em cibersegurança na NTT DATA.<br> 
+💻 Sou um profissional com mais de 15 anos na área de tecnologia, em sua totalidade atuando com montagem e manutenção de computadores e suporte ao usuário em grandes empresas e Fórum.<br>
+🏫 Sou formado em Análise e de Desenvolvimento de Sistemas com Pós Graduação de Cibersegurança e até o momento não trabalhei com desenvolvimento.<br>
+🔄 Hoje estou em processo de migração para minha área de formação, com desenvolvimento back-end.<br>
+📚 Estou estudando, no momento, lógica de programação com Javascript mas futuramente quero atuar com Java. 
 
-🔭 I'm currently working with access management in cybersecurity. <br>
-💻 I have over 15 years of experience in technology, providing computer maintenance and user support.<br>
-🏫 I have a degree in Systems Analysis and Development with a postgraduate degree in Cybersecurity.<br>
-🔄 I'm in the process of transitioning to my field of expertise, specifically Java back-end development.
+🔭 I'm currently working with cybersecurity access management at NTT DATA.<br>
+💻 I'm a professional with over 15 years of experience in technology, working entirely with computer assembly and maintenance, as well as user support for large companies and forums.<br>
+🏫 I have a degree in Systems Analysis and Development with a postgraduate degree in Cybersecurity, but I haven't worked in development yet.<br>
+🔄 I'm currently transitioning to my field of expertise, back-end development.<br>
+📚 I'm currently studying programming logic with Javascript, but I want to work with Java in the future.
 
 ---------------------------------------------------------------------------------------------------------
 
