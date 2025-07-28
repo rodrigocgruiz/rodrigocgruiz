@@ -21,7 +21,9 @@
 2. Lista 1.3
     1. Lista 1.1.1
 
-[Background](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-1018-622f-8cf8-80621de5705e/raw?se=2025-07-28T02%3A29%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=5d7a8e91-0459-5956-a0e0-64abea007064&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-27T19%3A16%3A50Z&ske=2025-07-28T19%3A16%3A50Z&sks=b&skv=2024-08-04&sig=GIS/fY5kKQgF00bMjVJqffCgZQ2X5Nx/06TZmSxbZhU%3D)    
+[Background](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-1018-622f-8cf8-80621de5705e/raw?se=2025-07-28T02%3A29%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=5d7a8e91-0459-5956-a0e0-64abea007064&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-27T19%3A16%3A50Z&ske=2025-07-28T19%3A16%3A50Z&sks=b&skv=2024-08-04&sig=GIS/fY5kKQgF00bMjVJqffCgZQ2X5Nx/06TZmSxbZhU%3D)
+
+![Background](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-1018-622f-8cf8-80621de5705e/raw?se=2025-07-28T02%3A29%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=5d7a8e91-0459-5956-a0e0-64abea007064&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-27T19%3A16%3A50Z&ske=2025-07-28T19%3A16%3A50Z&sks=b&skv=2024-08-04&sig=GIS/fY5kKQgF00bMjVJqffCgZQ2X5Nx/06TZmSxbZhU%3D)
 
 <!--
 **rodrigocgruiz/rodrigocgruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
